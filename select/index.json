@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "times of my life",
+  "base_artist": "mgk",
+  "createdAt": "2026-01-14T02:41:35.703959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Times of My Life",
+      "artist": "信樂團",
+      "has_synced": true,
+      "path": "select/01_Times_of_My_Life_信樂團.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Times of My Life",
+      "artist": "Flipp",
+      "has_synced": false,
+      "path": "select/02_Times_of_My_Life_Flipp.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Time's Of My Life",
+      "artist": "信乐团",
+      "has_synced": true,
+      "path": "select/03_Time's_Of_My_Life_信乐团.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TIMES OF MY LIFE",
+      "artist": "信乐团",
+      "has_synced": true,
+      "path": "select/04_TIMES_OF_MY_LIFE_信乐团.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "times of my life",
+      "artist": "mgk",
+      "has_synced": true,
+      "path": "select/05_times_of_my_life_mgk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "times of my life",
+      "artist": "mgk",
+      "has_synced": false,
+      "path": "select/pl_01_times_of_my_life_mgk.txt"
+    }
+  ]
+}
